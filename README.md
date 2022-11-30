@@ -1,4 +1,4 @@
-# Chat-App
+# DisCode-App
 
 <h3> Description </h3>
 <p>It is a real-time chat application built using Node.js, Express, Socket.io, RESTful Web
@@ -39,9 +39,9 @@ Feel free to play with it.
 <h3> Screenshots </h3>
 <p>
  
-![WhatsApp Image 2021-05-24 at 7 46 13 PM](https://user-images.githubusercontent.com/40101776/119361837-b79e8600-bcc9-11eb-87a9-154c70ab92eb.jpeg)
+<img width="389" alt="image" src="https://user-images.githubusercontent.com/88477312/204710258-812d6359-dfb3-4c54-be00-0ac6737aab02.png">
 
-![WhatsApp Image 2021-05-24 at 7 45 43 PM](https://user-images.githubusercontent.com/40101776/119361850-ba00e000-bcc9-11eb-8954-431a3d7ccd58.jpeg)
- </p>
+<img width="856" alt="image" src="https://user-images.githubusercontent.com/88477312/204710395-82a9d61d-bc26-4bda-b06f-aabcdd9974c7.png">
+</p>
 
 
